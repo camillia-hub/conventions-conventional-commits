@@ -6,11 +6,11 @@ Conventions pack for Camillia workspaces: one opinionated system where commit me
 
 | File | Convention |
 | --- | --- |
-| `conventions/commit-messages.md` | Conventional Commits format: types, scopes, subject and body rules. |
-| `conventions/breaking-changes.md` | Marking breaking changes; mapping commit signals to SemVer bumps. |
-| `conventions/branches.md` | `type/scope-topic` branch names and branch lifespans. |
-| `conventions/releases.md` | SemVer rules, `vX.Y.Z` tags, release cadence, hotfixes. |
-| `conventions/pull-requests.md` | PR title equals commit message; squash-merge workflow. |
+| `conventions/cam-ext-conventional-commits-commit-messages.md` | Conventional Commits format: types, scopes, subject and body rules. |
+| `conventions/cam-ext-conventional-commits-breaking-changes.md` | Marking breaking changes; mapping commit signals to SemVer bumps. |
+| `conventions/cam-ext-conventional-commits-branches.md` | `type/scope-topic` branch names and branch lifespans. |
+| `conventions/cam-ext-conventional-commits-releases.md` | SemVer rules, `vX.Y.Z` tags, release cadence, hotfixes. |
+| `conventions/cam-ext-conventional-commits-pull-requests.md` | PR title equals commit message; squash-merge workflow. |
 
 ## Install
 
